@@ -1,4 +1,5 @@
 #esse script compila um grafo para ser usado no calculo das rotas. Só precisa ser rodado uma vez; para subir o servidor é só rodar o script init_sever.bash
+#é preciso instalar java
 
 #os arquivos necessarios sao:
 # o gtfs.zip (baixado do transitfeed, realtivo ao trasnporte de sp)
@@ -8,7 +9,7 @@
 #acessando o endereço do diretório
 #cd /home/rodolfo/Documents/Germina/programs/temporaryOSRMrouter/
 
-cd caminho/para/esse/diretório/temporaryOSRMrouter/
+#cd C:\Users\ruffu\temporaryOSRMrouter
 
 #versão 2.0, sem suporte para itinerário
 #java -Xmx8G -jar otp-2.0.0-shaded.jar --buildStreet .
@@ -20,4 +21,4 @@ cd caminho/para/esse/diretório/temporaryOSRMrouter/
 #java -Xmx8G -jar otp-1.5.0-shaded.jar --build /home/rodolfo/Documents/Germina/programs/temporaryOSRMrouter/graphs
 
 #no windows, as barras são invertidas
-java -Xmx8G -jar otp-1.5.0-shaded.jar --build /caminho/para/esse/diretório/temporaryOSRMrouter/graphs
+java -Xmx4G -jar otp-1.5.0-shaded.jar --build C:\Users\ruffu\temporaryOSRMrouter\graphs\saopaulo --basePath C:\Users\ruffu\temporaryOSRMrouter

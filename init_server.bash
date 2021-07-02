@@ -11,4 +11,4 @@
 #java -Xmx8G -jar otp-1.5.0-shaded.jar --server --basePath /home/rodolfo/Documents/Germina/programs/temporaryOSRMrouter --router saopaulo
 
 #no windows, as barras são invertidas
-java -Xmx8G -jar otp-1.5.0-shaded.jar --server --basePath /caminho/para/esse/diretório/temporaryOSRMrouter --router saopaulo
+java -Xmx8G -jar otp-1.5.0-shaded.jar --server --basePath C:\Users\ruffu\temporaryOSRMrouter --router saopaulo

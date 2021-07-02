@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46db2da5-1b39-4754-9f46-13e8c8914e91" name="Default Changelist" comment="initialization" />
+    <list default="true" id="46db2da5-1b39-4754-9f46-13e8c8914e91" name="Default Changelist" comment="initialization">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init_graph.bash" beforeDir="false" afterPath="$PROJECT_DIR$/init_graph.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init_server.bash" beforeDir="false" afterPath="$PROJECT_DIR$/init_server.bash" afterDir="false" />
+    </list>
     <list id="896ea6fb-03da-40ea-bb72-a5a298d6a090" name="initi" comment="initi" />
     <list id="940dc3d7-ae3b-4097-91b5-dc311fed1737" name="Revert &quot;initi&quot;" comment="Revert &quot;initi&quot;&#10;&#10;This reverts commit f18fbcd1" />
     <list id="629794e7-4cb5-402d-a331-30a28722d095" name="Revert &quot;initi&quot;-2" comment="Revert &quot;initi&quot;&#10;&#10;This reverts commit f18fbcd1" />
